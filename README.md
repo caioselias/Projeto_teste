@@ -1,8 +1,8 @@
 # Análise estatística de base de dados de diabetes
 
-A fazer: um texto explicando contexto
+Projeto referente às aulas de ciência de dados o qual evidencia um estudo estatístico com dados referente ao Sistema de Vigilância de Fatores de Risco Comportamentais (BRFSS) obtidos por pesquisa telefônica relacionada à saúde que é coletada anualmente pelo CDC (Centro de Controle e Prevenção de Doenças dos Estados Unidos). Os dados disponíveis no Kaggle para o ano de 2015.
 
-Imagem
+![imagem](imagens/diabetes.jpg)
 
 ## Organização do projeto
 
@@ -26,8 +26,8 @@ Imagem
 |
 ├── referencias        <- Dicionários de dados, manuais e todos os outros materiais explicativos.
 |
-├── relatorios         <- Análises geradas em HTML, PDF, LaTeX, etc.
-│   └── imagens        <- Gráficos e figuras gerados para serem usados em relatórios
+├── imagens         <- imagens utilizadas no projeto.
+│   
 ```
 
 ## Configuração do ambiente
